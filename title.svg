@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="120" viewBox="0 0 640 120">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#00ff88"/>
+<stop offset="100%" stop-color="#00d4ff"/>
+</linearGradient></defs>
+<text x="320" y="60" text-anchor="middle" dominant-baseline="central" font-family="Verdana, Segoe UI, Arial, sans-serif" font-weight="bold" font-size="78" fill="url(#g)">GODY OUWA</text>
+</svg>

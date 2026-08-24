@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="236" viewBox="0 0 420 236">
+<rect x="0" y="0" width="420" height="236" rx="10" fill="#0a0a0a"/>
+<rect x="0" y="0" width="420" height="236" rx="10" fill="none" stroke="#1f1f1f"/>
+<text x="210" y="26" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="15" font-weight="600" fill="#00ff88">TOP LANGUAGES</text>
+<circle cx="27" cy="49" r="5" fill="#4F5D95"/>
+<text x="40" y="53" font-family="Segoe UI, sans-serif" font-size="13" fill="#e6edf3">PHP</text>
+<text x="398" y="53" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="13" fill="#00ff88">54.7%</text>
+<rect x="22" y="59" width="376" height="5" rx="2.5" fill="#1f1f1f"/>
+<rect x="22" y="59" width="205" height="5" rx="2.5" fill="#4F5D95"/>
+<circle cx="27" cy="79" r="5" fill="#f7523f"/>
+<text x="40" y="83" font-family="Segoe UI, sans-serif" font-size="13" fill="#e6edf3">Blade</text>
+<text x="398" y="83" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="13" fill="#00ff88">18.2%</text>
+<rect x="22" y="89" width="376" height="5" rx="2.5" fill="#1f1f1f"/>
+<rect x="22" y="89" width="68" height="5" rx="2.5" fill="#f7523f"/>
+<circle cx="27" cy="109" r="5" fill="#663399"/>
+<text x="40" y="113" font-family="Segoe UI, sans-serif" font-size="13" fill="#e6edf3">CSS</text>
+<text x="398" y="113" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="13" fill="#00ff88">9.7%</text>
+<rect x="22" y="119" width="376" height="5" rx="2.5" fill="#1f1f1f"/>
+<rect x="22" y="119" width="36" height="5" rx="2.5" fill="#663399"/>
+<circle cx="27" cy="139" r="5" fill="#f1e05a"/>
+<text x="40" y="143" font-family="Segoe UI, sans-serif" font-size="13" fill="#e6edf3">JavaScript</text>
+<text x="398" y="143" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="13" fill="#00ff88">7.8%</text>
+<rect x="22" y="149" width="376" height="5" rx="2.5" fill="#1f1f1f"/>
+<rect x="22" y="149" width="29" height="5" rx="2.5" fill="#f1e05a"/>
+<circle cx="27" cy="169" r="5" fill="#DA5B0B"/>
+<text x="40" y="173" font-family="Segoe UI, sans-serif" font-size="13" fill="#e6edf3">Jupyter Notebook</text>
+<text x="398" y="173" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="13" fill="#00ff88">6.0%</text>
+<rect x="22" y="179" width="376" height="5" rx="2.5" fill="#1f1f1f"/>
+<rect x="22" y="179" width="22" height="5" rx="2.5" fill="#DA5B0B"/>
+<circle cx="27" cy="199" r="5" fill="#e34c26"/>
+<text x="40" y="203" font-family="Segoe UI, sans-serif" font-size="13" fill="#e6edf3">HTML</text>
+<text x="398" y="203" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="13" fill="#00ff88">3.3%</text>
+<rect x="22" y="209" width="376" height="5" rx="2.5" fill="#1f1f1f"/>
+<rect x="22" y="209" width="12" height="5" rx="2.5" fill="#e34c26"/>
+</svg>
